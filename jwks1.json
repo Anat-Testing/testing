@@ -1,11 +1,16 @@
 {
-  "alg": "RS256",
-  "e": "AQAB",
-  "key_ops": [
-    "verify"
-  ],
-  "kty": "RSA",
-  "n": "rKP4YuDeNw5tsFeeVOeIxQadGlHTXoKfgYa7Q0g6zes7duUaJiqDhB3U_gaF5_J6QRCKHWDkU7B7pM_ftbFTyPUGiFY1xEHCXYTtsJkF6tCZvhtL8Vel4_5pcRBrMRLvFlP-5VC1Q5nTepEzSVePOP9_PS5bAGmEhk0impDz4MFuHtFaXhGYvNyaa0r_nbjty51vhqOKmQ-xgp-kls1HaFsCNFvaJ0QEiFP4MRrtEfYjiW6GfvSauY9uP3icI7OwJY9MPkSJLuPeoKcaq4mEn3NE0PnsYGufT6mX0g4uOpbEspAzAtHAClHzs2s0uKEaU__HlzpOfdnDrexdoUlOiDREFJ8SPXAiqHd4O6Ts2-chKXkpECgdKCqZXH0_uMo74AJ8EbdSZ9dXI-Fm5ZUNrJns5c2AqQ4u9OcH78xWxKuarjIB1sxnWfyQ0r5hP435XSZqv6EfvnF1MvzC85t6A-B8m5fbX80F6DUJCe-1klBJoDXOSJCUp71W27X_mz-r",
-  "use": "sig",
-  "kid": "06a048c9c1dc980a83c1b1046c0d27e7"
+    "keys":
+  [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "rKP4YuDeNw5tsFeeVOeIxQadGlHTXoKfgYa7Q0g6zes7duUaJiqDhB3U_gaF5_J6QRCKHWDkU7B7pM_ftbFTyPUGiFY1xEHCXYTtsJkF6tCZvhtL8Vel4_5pcRBrMRLvFlP-5VC1Q5nTepEzSVePOP9_PS5bAGmEhk0impDz4MFuHtFaXhGYvNyaa0r_nbjty51vhqOKmQ-xgp-kls1HaFsCNFvaJ0QEiFP4MRrtEfYjiW6GfvSauY9uP3icI7OwJY9MPkSJLuPeoKcaq4mEn3NE0PnsYGufT6mX0g4uOpbEspAzAtHAClHzs2s0uKEaU__HlzpOfdnDrexdoUlOiDREFJ8SPXAiqHd4O6Ts2-chKXkpECgdKCqZXH0_uMo74AJ8EbdSZ9dXI-Fm5ZUNrJns5c2AqQ4u9OcH78xWxKuarjIB1sxnWfyQ0r5hP435XSZqv6EfvnF1MvzC85t6A-B8m5fbX80F6DUJCe-1klBJoDXOSJCUp71W27X_mz-r",
+      "use": "sig",
+      "kid": "06a048c9c1dc980a83c1b1046c0d27e7"
+    }    
+  ]
 }
